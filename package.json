@@ -2,14 +2,14 @@
   "name": "js_project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/Viktoriia181818/js_project",
+  "homepage": "https://YuliaMiha.github.io/team-project-js/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /js_project/"
+    "build": "parcel build src/*.html --public-url /team-project-js/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/YuliaMiha/team-project-js.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
